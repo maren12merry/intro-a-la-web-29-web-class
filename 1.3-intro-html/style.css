@@ -1,0 +1,26 @@
+p {
+    color: goldenrod;
+}
+
+li {
+    color: steelblue;
+}
+
+.accent-color {
+    color: rebeccapurple;
+}
+ 
+.accent-color {
+    color: rebeccapurple;
+}
+
+h1 {
+    color: green;
+}
+body .accent-color {
+    color: green;
+}
+
+#li-importantísimo{
+    color: orange
+}
